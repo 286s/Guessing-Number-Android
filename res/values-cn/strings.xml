@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">猜数字</string>
+	<string name="title">四个不同的数字(1-9):</string>
+	<string-array name="number">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+	</string-array>
+	<string name="help">帮助</string>
+	<string name="hint">提示</string>
+	<string name="new_Game">新游戏</string>
+	<string name="submit">尝试一次</string>
+	<string name="record">记录</string>
+</resources>

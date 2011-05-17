@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Guessing Number</string>
+	<string name="title">Four distinct digits:</string>
+	<string-array name="number">
+		<item>1</item>
+		<item>2</item>
+		<item>3</item>
+		<item>4</item>
+		<item>5</item>
+		<item>6</item>
+		<item>7</item>
+		<item>8</item>
+		<item>9</item>
+	</string-array>
+	<string name="help">Help</string>
+	<string name="hint">Hint</string>
+	<string name="new_Game">New Game</string>
+	<string name="submit">Try</string>
+	<string name="record">Record</string>
+</resources>
